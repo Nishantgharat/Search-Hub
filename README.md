@@ -3,6 +3,7 @@ A custom search engine developed small scale companies and organizations to help
 
 Demonstration :
 
+<p><img width="850" src="https://github.com/Nishantgharat/Search-Hub/blob/main/demo.gif"/></p>
 
 
 
